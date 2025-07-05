@@ -1,0 +1,187 @@
+
+{
+  "quizTitle": "General Knowledge Quiz",
+  "quizDescription": "A 15-question multiple-choice quiz covering general topics.",
+  "questions": [
+    {
+      "id": 1,
+      "questionText": "What is the largest planet in our solar system?",
+      "options": [
+        { "id": "a", "text": "Earth" },
+        { "id": "b", "text": "Jupiter" },
+        { "id": "c", "text": "Saturn" },
+        { "id": "d", "text": "Mars" }
+      ],
+      "correctAnswers": ["b"],
+      "multiSelect": false
+    },
+    {
+      "id": 2,
+      "questionText": "Which of the following are prime numbers?",
+      "options": [
+        { "id": "a", "text": "2" },
+        { "id": "b", "text": "4" },
+        { "id": "c", "text": "5" },
+        { "id": "d", "text": "9" }
+      ],
+      "correctAnswers": ["a", "c"],
+      "multiSelect": true
+    },
+    {
+      "id": 3,
+      "questionText": "Who discovered gravity?",
+      "options": [
+        { "id": "a", "text": "Albert Einstein" },
+        { "id": "b", "text": "Isaac Newton" },
+        { "id": "c", "text": "Galileo Galilei" },
+        { "id": "d", "text": "Nikola Tesla" }
+      ],
+      "correctAnswers": ["b"],
+      "multiSelect": false
+    },
+    {
+      "id": 4,
+      "questionText": "Which continents are completely in the Southern Hemisphere?",
+      "options": [
+        { "id": "a", "text": "Australia" },
+        { "id": "b", "text": "South America" },
+        { "id": "c", "text": "Africa" },
+        { "id": "d", "text": "Antarctica" }
+      ],
+      "correctAnswers": ["a", "d"],
+      "multiSelect": true
+    },
+    {
+      "id": 5,
+      "questionText": "Which is the longest river in the world?",
+      "options": [
+        { "id": "a", "text": "Amazon" },
+        { "id": "b", "text": "Yangtze" },
+        { "id": "c", "text": "Mississippi" },
+        { "id": "d", "text": "Nile" }
+      ],
+      "correctAnswers": ["d"],
+      "multiSelect": false
+    },
+    {
+      "id": 6,
+      "questionText": "What are the primary colors?",
+      "options": [
+        { "id": "a", "text": "Red" },
+        { "id": "b", "text": "Green" },
+        { "id": "c", "text": "Blue" },
+        { "id": "d", "text": "Yellow" }
+      ],
+      "correctAnswers": ["a", "c", "d"],
+      "multiSelect": true
+    },
+    {
+      "id": 7,
+      "questionText": "Which gas is most abundant in the Earth's atmosphere?",
+      "options": [
+        { "id": "a", "text": "Oxygen" },
+        { "id": "b", "text": "Hydrogen" },
+        { "id": "c", "text": "Nitrogen" },
+        { "id": "d", "text": "Carbon Dioxide" }
+      ],
+      "correctAnswers": ["c"],
+      "multiSelect": false
+    },
+    {
+      "id": 8,
+      "questionText": "Select all mammals from the list.",
+      "options": [
+        { "id": "a", "text": "Whale" },
+        { "id": "b", "text": "Shark" },
+        { "id": "c", "text": "Bat" },
+        { "id": "d", "text": "Penguin" }
+      ],
+      "correctAnswers": ["a", "c"],
+      "multiSelect": true
+    },
+    {
+      "id": 9,
+      "questionText": "Who painted the Mona Lisa?",
+      "options": [
+        { "id": "a", "text": "Vincent van Gogh" },
+        { "id": "b", "text": "Leonardo da Vinci" },
+        { "id": "c", "text": "Pablo Picasso" },
+        { "id": "d", "text": "Claude Monet" }
+      ],
+      "correctAnswers": ["b"],
+      "multiSelect": false
+    },
+    {
+      "id": 10,
+      "questionText": "Which countries are part of the United Kingdom?",
+      "options": [
+        { "id": "a", "text": "England" },
+        { "id": "b", "text": "Scotland" },
+        { "id": "c", "text": "Wales" },
+        { "id": "d", "text": "Ireland" }
+      ],
+      "correctAnswers": ["a", "b", "c"],
+      "multiSelect": true
+    },
+    {
+      "id": 11,
+      "questionText": "Which planet is known as the Red Planet?",
+      "options": [
+        { "id": "a", "text": "Venus" },
+        { "id": "b", "text": "Mars" },
+        { "id": "c", "text": "Mercury" },
+        { "id": "d", "text": "Saturn" }
+      ],
+      "correctAnswers": ["b"],
+      "multiSelect": false
+    },
+    {
+      "id": 12,
+      "questionText": "Which of these are programming languages?",
+      "options": [
+        { "id": "a", "text": "Java" },
+        { "id": "b", "text": "Python" },
+        { "id": "c", "text": "CSS" },
+        { "id": "d", "text": "Ruby" }
+      ],
+      "correctAnswers": ["a", "b", "d"],
+      "multiSelect": true
+    },
+    {
+      "id": 13,
+      "questionText": "Which ocean is the largest?",
+      "options": [
+        { "id": "a", "text": "Atlantic Ocean" },
+        { "id": "b", "text": "Indian Ocean" },
+        { "id": "c", "text": "Pacific Ocean" },
+        { "id": "d", "text": "Arctic Ocean" }
+      ],
+      "correctAnswers": ["c"],
+      "multiSelect": false
+    },
+    {
+      "id": 14,
+      "questionText": "Select all renewable energy sources.",
+      "options": [
+        { "id": "a", "text": "Solar" },
+        { "id": "b", "text": "Coal" },
+        { "id": "c", "text": "Wind" },
+        { "id": "d", "text": "Hydropower" }
+      ],
+      "correctAnswers": ["a", "c", "d"],
+      "multiSelect": true
+    },
+    {
+      "id": 15,
+      "questionText": "Who was the first person to walk on the Moon?",
+      "options": [
+        { "id": "a", "text": "Neil Armstrong" },
+        { "id": "b", "text": "Buzz Aldrin" },
+        { "id": "c", "text": "Yuri Gagarin" },
+        { "id": "d", "text": "Michael Collins" }
+      ],
+      "correctAnswers": ["a"],
+      "multiSelect": false
+    }
+  ]
+}
